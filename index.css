@@ -348,7 +348,7 @@
 }
 
 .heading h1::after {
-  content: '$NARCOS';
+  content: '$PABLO';
   position: absolute;
   left: 0;
   top: 0;
