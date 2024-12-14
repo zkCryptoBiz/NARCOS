@@ -348,7 +348,7 @@
 }
 
 .heading h1::after {
-  content: '$CARTEL';
+  content: '$PEBAR';
   position: absolute;
   left: 0;
   top: 0;
