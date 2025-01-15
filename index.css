@@ -348,7 +348,7 @@
 }
 
 .heading h1::after {
-  content: '$PEBAR';
+  content: '$PEBLO';
   position: absolute;
   left: 0;
   top: 0;
